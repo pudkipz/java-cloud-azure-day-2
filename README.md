@@ -29,7 +29,7 @@ The configuration looks something like this (replace all angle bracket parts wit
 ```groovy
 azurewebapp {
 	subscription = '<Insert Subscription Here>'
-	resourceGroup = 'teachers_infrastructure'
+	resourceGroup = 'students_infrastructure'
 	appName = '<App Name Goes Here>'
 	pricingTier = 'F1'
 	region = 'northeurope'
