@@ -1,5 +1,11 @@
 # Java Cloud - Azure - Day 2
 
+[Link to backend API](https://ms-music-app.azurewebsites.net)
+![Backend](/backend.png)
+
+[Link to frontend](https://gentle-cliff-052c3b403.4.azurestaticapps.net)
+![Frontend](/frontend.png)
+
 ## Learning Objectives
 
 - Deploy a Spring App to Azure Web Services
